@@ -115,8 +115,8 @@
 			isa = PBXGroup;
 			children = (
 				D40C35231D9CD6DA00808D67 /* LaunchScreen.storyboard */,
-				D47BDBA71D9ECD8F0084008F /* View */,
 				D40C351E1D9CD6DA00808D67 /* Main.storyboard */,
+				D47BDBA71D9ECD8F0084008F /* View */,
 			);
 			name = Storyboard;
 			sourceTree = "<group>";
@@ -345,7 +345,7 @@
 				DEVELOPMENT_TEAM = 55V3ELH4AV;
 				INFOPLIST_FILE = C4QStudentBook/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.JasonWang.C4QStudentBook;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnnieTung.C4QStudentBook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -359,7 +359,7 @@
 				DEVELOPMENT_TEAM = 55V3ELH4AV;
 				INFOPLIST_FILE = C4QStudentBook/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.JasonWang.C4QStudentBook;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnnieTung.C4QStudentBook;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};

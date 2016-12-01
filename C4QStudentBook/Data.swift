@@ -99,7 +99,7 @@ public var ac32_students: [[String: Any]] = [
         "studentID": 3203,
         "github": "amtung",
         "linkedin": "tungannie",
-        "funFact": "I joined Access Code because I enjoy designing and I want to develop my programming skills and build things into reality. Software developing seems interesting and challenging at the same time but I want to see how far I can push myself, I’m ready to tackle the next 10 months. "
+        "funFact": "I joined Access Code because I want to develop my passion for coding. I want to combine my visual and artistic skills with programming skills and be able to build things to reality. Coding seems interesting and challenging but I really want to see how far I can push myself, I’m ready to tackle the next 10 months. Fun fact, I have 2 adorable bunnies and it was just their birthdays few days ago! I have been playing the piano since I was 4 but stopped before College, recently I’m picking it up again and trying to play some electronic dance music into classical music pieces."
     ],
     [
         "info": [
